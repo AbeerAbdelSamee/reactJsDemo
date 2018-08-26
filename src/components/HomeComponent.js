@@ -29,6 +29,7 @@ import { Card, CardImg, CardText, CardBody,
                         <RenderCard item={props.leader} />
                     </div>
                 </div>
+                
             </div>
         );
     }
